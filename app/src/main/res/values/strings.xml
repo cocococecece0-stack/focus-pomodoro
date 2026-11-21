@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фокус</string>
+    <string name="mode_focus">Фокус</string>
+    <string name="mode_short_break">Перерыв</string>
+    <string name="mode_long_break">Отдых</string>
+    <string name="start">Старт</string>
+    <string name="pause">Пауза</string>
+    <string name="reset">Сброс</string>
+    <string name="today_sessions">Сегодня завершено: %1$d</string>
+</resources>
